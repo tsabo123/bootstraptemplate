@@ -1,0 +1,266 @@
+@font-face {
+    font-family: "Montserrat" ;
+    src: url(./fonts/Montserrat.ttf);
+}
+
+
+.text1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+
+}
+.text2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 80px;
+    /* or 138% */
+
+    letter-spacing: 0.2px;
+
+    /* text-color */
+
+    color: #252B42;
+
+}
+.text3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+    letter-spacing: 0.2px;
+
+    /* second-text-color */
+
+    color: #737373;
+}
+.text4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+    }
+.text5{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+}
+.text6{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+    /* text-color */
+
+    color: #252B42;
+}
+.text7 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    /* or 125% */
+    
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    /* text-color */
+    
+    color: #252B42;
+}
+.svg {
+   
+    margin-inline: auto;
+    }
+.card-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    /* text-color */
+    
+    color: #252B42;
+}
+.card-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+    /* text-color */
+
+    color: #252B42;
+}
+.card-text1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    /* light-text-color */
+    
+    color: #FFFFFF;
+}
+.color-primary {
+    align-items: center;
+    padding: 15px 36px;
+    gap: 10px;
+
+    width: 189px;
+    height: 54px;
+
+    /* primary-color */
+
+    border: 1px solid #23A6F0;
+    border-radius: 37px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+.color-primary1 {
+    align-items: center;
+    padding: 15px 36px;
+    gap: 10px;
+    
+    width: 189px;
+    height: 54px;
+    
+    /* primary-color */
+    
+    border: 1px solid #23A6F0;
+    border-radius: 37px;
+    
+    /* Inside auto layout */
+    background: #252B42;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+.btn {
+    align-items: center;
+    padding: 15px 40px;
+    gap: 10px;
+
+    
+    height: 52px;
+
+    /* primary-color */
+
+    background: #23A6F0;
+    border-radius: 5px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.footer {
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.2px;
+
+    /* second-text-color */
+
+    color: #737373;
+}
+.btn {
+    background: #23A6F0;
+    border: 1px solid #E6E6E6;
+    border-radius: 0px 5px 5px 0px;
+    
+}
+.bold {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+
+}
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    letter-spacing: 0.2px;
+    
+    /* second-text-color */
+    
+    color: #737373;
+}
